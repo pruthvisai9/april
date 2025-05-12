@@ -1,5 +1,5 @@
 #simple Bank ATM
-
+#In this program we used conditional statements,loooping statements,jumping statements
 a='''
 1.Deposit
 2.withdraw
