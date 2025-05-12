@@ -1,5 +1,6 @@
 #simple Bank ATM
 #In this program we used conditional statements,loooping statements,jumping statements
+# we are discussed about deposit,withdraw,balance enquiry,exit
 a='''
 1.Deposit
 2.withdraw
